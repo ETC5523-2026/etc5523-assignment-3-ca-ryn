@@ -254,11 +254,57 @@ th {
   color: #5C1025;
 }
 
-/* gigure captions */
+/* figure captions */
 
 figcaption,
 .figure-caption {
   color: #575052;
   font-size: 0.9rem;
 }
+
+
+/* ADDITIONAL EDITS TO how did researchers investigate this? SECTION */
+
+/* callout boxes */
+.callout.callout-note {
+  border: 1px solid #E8DADD !important;
+  border-left: 5px solid #800020 !important;
+  border-radius: 10px !important;
+  background-color: #FCF7F8 !important;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+/* callout header background */
+.callout.callout-note > .callout-header {
+  background-color: #F1E3E6 !important;
+  border-bottom: 1px solid #E8DADD;
+}
+
+/* callout heading text */
+.callout.callout-note .callout-title,
+.callout.callout-note .callout-title-container {
+  color: #800020 !important;
+  font-weight: 700;
+}
+
+/* remove Quarto's ugly blue callout colour */
+.callout.callout-note {
+  --callout-color: 128, 0, 32;
+}
+
+/* Callout body */
+.callout.callout-note .callout-body {
+  background-color: #FCF7F8 !important;
+  color: #2D2528 !important;
+  line-height: 1.7;
+  padding: 12px 16px;
+}
+
+/* Remove excessive space after the last paragraph */
+.callout.callout-note .callout-body > :last-child {
+  margin-bottom: 0;
+}
+
+
 
