@@ -1,6 +1,9 @@
 
-# ETC5523 Blog Assessment
+# AI-use declaration
 
-* This is a **template** for the ETC5523 Blog Assessment. 
-* The author of this blog is **Michael Lydeamore**.
-* The URL for this blog is [https://etc5523-2023.github.io/blog-template/](https://etc5523-2023.github.io/blog-template/)
+I used ChatGPT to suggest CSS alternatives to create a burgundy-coloured theme,
+create buttons for 'About me' and 'Explore my posts' on Home page, change the
+profile picture in the 'About me' page to a circle + position it on the left of
+the screen, create two call-out boxes in the second section of the blog post, 
+and how to add captions to figures & tables and reference them. I checked and
+revised all generated code and text.
