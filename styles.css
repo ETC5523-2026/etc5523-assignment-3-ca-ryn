@@ -30,9 +30,20 @@ a:hover {
   color: #FFFFFF;
 }
 
-/* Title banner heading */
+/* title banner heading */
 .quarto-title-banner h1 {
   color: #FFFFFF;
+}
+
+/* blog subtitle / description */
+.quarto-title-banner .description {
+  color: #F5E6EA !important;
+}
+
+/* blog category labels */
+.quarto-title-banner .quarto-category {
+  color: #FFFFFF !important;
+  border-color: #F5E6EA !important;
 }
 
 /* buttons */
@@ -46,3 +57,9 @@ a:hover {
   border-color: #5C1025;
 }
 
+/* author and publication date */
+.quarto-title-banner .quarto-title-meta,
+.quarto-title-banner .quarto-title-meta-heading,
+.quarto-title-banner .quarto-title-meta-contents {
+  color: #FFFFFF !important;
+}
