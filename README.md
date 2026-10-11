@@ -1,3 +1,6 @@
+# GitHub Pages 
+
+[https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/]()
 
 # AI-use declaration
 
