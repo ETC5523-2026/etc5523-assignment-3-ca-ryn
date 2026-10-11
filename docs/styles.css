@@ -1,0 +1,310 @@
+/* GENERAL WEBSITE COLOURS */
+
+body {
+  background-color: #FAF7F5;
+  color: #2D2528;
+}
+
+h1, h2, h3, h4 {
+  color: #800020;
+}
+
+a {
+  color: #800020;
+}
+
+a:hover {
+  color: #5C1025;
+}
+
+
+/* NAVIGATION BAR */
+
+#quarto-header .navbar {
+  background-color: #800020 !important;
+}
+
+#quarto-header .navbar-brand,
+#quarto-header .navbar .nav-link {
+  color: #FFFFFF !important;
+}
+
+#quarto-header .navbar-brand:hover,
+#quarto-header .navbar .nav-link:hover,
+#quarto-header .navbar .nav-link.active {
+  color: #F5C9D4 !important;
+}
+
+/* gitHub and search icons */
+
+#quarto-header .navbar .bi,
+#quarto-header .navbar .nav-link i,
+#quarto-header .navbar .quarto-search-button {
+  color: #FFFFFF !important;
+}
+
+
+/* TITLE BANNERS FOR BLOG POSTS */
+
+.quarto-title-banner {
+  background-color: #800020 !important;
+}
+
+.quarto-title-banner h1,
+.quarto-title-banner .title {
+  color: #FFFFFF !important;
+}
+
+/* blog subtitle and description */
+
+.quarto-title-banner .description,
+.quarto-title-banner .quarto-title-description {
+  color: #F5E6EA !important;
+}
+
+/* blog categories */
+
+.quarto-title-banner .quarto-category {
+  color: #FFFFFF !important;
+  border-color: #F5E6EA !important;
+}
+
+/* author and publication date */
+
+.quarto-title-banner .quarto-title-meta,
+.quarto-title-banner .quarto-title-meta-heading,
+.quarto-title-banner .quarto-title-meta-contents {
+  color: #FFFFFF !important;
+}
+
+
+/* HOMEPAGE WELCOME SECTION */
+
+.home-hero {
+  background-color: #FAF7F5;
+  padding: 45px 7% 25px;
+  margin-bottom: 15px;
+}
+
+.home-welcome {
+  color: #A64D63;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.home-hero h1 {
+  color: #800020;
+  font-size: 3rem;
+  font-weight: 750;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.home-hero p {
+  color: #2D2528;
+  max-width: 650px;
+  line-height: 1.8;
+}
+
+
+/* HOMEPAGE BUTTONS */
+
+.home-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 25px;
+  align-items: center;
+}
+
+.home-buttons .btn {
+  display: inline-block;
+  margin: 0;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+/* filled burgundy button */
+
+.home-buttons .btn-primary {
+  background-color: #800020;
+  border-color: #800020;
+  color: #FFFFFF;
+}
+
+.home-buttons .btn-primary:hover {
+  background-color: #5C1025;
+  border-color: #5C1025;
+  color: #FFFFFF;
+}
+
+/* burgundy outline button */
+
+.home-buttons .btn-outline-primary {
+  background-color: transparent;
+  border-color: #800020;
+  color: #800020;
+}
+
+.home-buttons .btn-outline-primary:hover {
+  background-color: #800020;
+  border-color: #800020;
+  color: #FFFFFF;
+}
+
+
+/* LATEST POSTS SECTION */
+
+.home-posts {
+  padding: 10px 7% 0;
+  margin-top: 0;
+}
+
+.home-posts h2 {
+  color: #800020;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+/* blog listing container */
+
+.quarto-listing-container-default {
+  padding: 10px 7% 40px;
+}
+
+/* blog post titles */
+
+.quarto-listing .listing-title {
+  color: #800020 !important;
+  font-weight: 600;
+}
+
+.quarto-listing .listing-title:hover {
+  color: #5C1025 !important;
+}
+
+/* blog descriptions */
+
+.quarto-listing .listing-description {
+  color: #2D2528;
+  line-height: 1.6;
+}
+
+/* blog category tags */
+
+.quarto-listing .listing-category {
+  color: #800020 !important;
+  border-color: #E8DADD !important;
+}
+
+/* blog entry separators */
+
+.quarto-listing .quarto-post {
+  border-bottom: 1px solid #E8DADD;
+  padding-top: 18px;
+  padding-bottom: 22px;
+}
+
+
+/* GENERAL BUTTON STYLES */
+
+.btn-primary {
+  background-color: #800020;
+  border-color: #800020;
+  color: #FFFFFF;
+}
+
+.btn-primary:hover {
+  background-color: #5C1025;
+  border-color: #5C1025;
+  color: #FFFFFF;
+}
+
+
+/* BLOG POST CONTENT */
+
+main.content p {
+  line-height: 1.75;
+}
+
+main.content h2 {
+  color: #800020;
+  margin-top: 2rem;
+}
+
+main.content h3 {
+  color: #5C1025;
+}
+
+/* tables */
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #F1E3E6;
+}
+
+th {
+  color: #5C1025;
+}
+
+/* figure captions */
+
+figcaption,
+.figure-caption {
+  color: #575052;
+  font-size: 0.9rem;
+}
+
+
+/* ADDITIONAL EDITS TO how did researchers investigate this? SECTION */
+
+/* callout boxes */
+.callout.callout-note {
+  border: 1px solid #E8DADD !important;
+  border-left: 5px solid #800020 !important;
+  border-radius: 10px !important;
+  background-color: #FCF7F8 !important;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+/* callout header background */
+.callout.callout-note > .callout-header {
+  background-color: #F1E3E6 !important;
+  border-bottom: 1px solid #E8DADD;
+}
+
+/* callout heading text */
+.callout.callout-note .callout-title,
+.callout.callout-note .callout-title-container {
+  color: #800020 !important;
+  font-weight: 700;
+}
+
+/* remove Quarto's ugly blue callout colour */
+.callout.callout-note {
+  --callout-color: 128, 0, 32;
+}
+
+/* Callout body */
+.callout.callout-note .callout-body {
+  background-color: #FCF7F8 !important;
+  color: #2D2528 !important;
+  line-height: 1.7;
+  padding: 12px 16px;
+}
+
+/* Remove excessive space after the last paragraph */
+.callout.callout-note .callout-body > :last-child {
+  margin-bottom: 0;
+}
+
+
+
