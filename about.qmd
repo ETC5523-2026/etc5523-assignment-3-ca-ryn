@@ -1,13 +1,22 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
+      href: https://github.com/ca-ryn
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+I am currently a Masters student with a passion in data analytics,
+statistics, and communicating complex information
+through engaging visualisations.
+
+Throughout my studies, I have developed experience in Python,
+R, SQL, statistical analysis, and data storytelling.
+
+This website is a space for sharing my projects,
+exploring interesting research, and translating
+technical findings into accessible insights.
