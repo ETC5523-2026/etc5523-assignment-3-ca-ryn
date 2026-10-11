@@ -2,6 +2,9 @@
 
 [https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/](https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/)
 
+## Intended Audience
+
+This blog post is written for high school & university students and the general public who are interested in public health but have limited knowledge of epidemiology or mathematical modelling.
 
 # AI-use declaration
 
