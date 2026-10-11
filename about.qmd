@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: "𖥻 ׁ ׅAbout Meˎˊ˗ "
 image: profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: github
       text: Github
@@ -17,6 +17,6 @@ through engaging visualisations.
 Throughout my studies, I have developed experience in Python,
 R, SQL, statistical analysis, and data storytelling.
 
-This website is a space for sharing my projects,
-exploring interesting research, and translating
+This website is a space where I share my projects,
+explore interesting data, and translate
 technical findings into accessible insights.
