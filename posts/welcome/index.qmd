@@ -1,12 +1,25 @@
 ---
-title: "Welcome To My Blog Template"
-author: "Emi Tanaka"
-date: "2022-07-18"
-categories: [news]
+title: "Can Vaccines Stop a Quarantine Breach from Becoming an Outbreak?"
+author: "Caryn Kesuma"
+date: "2026-11-10"
+categories: [COVID-19, Public Health]
+description: "Exploring how vaccination & virus transmissibility influence COVID-19 outbreak risk"
+title-block-banner: true
+toc: true
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Imagine someone arriving in Australia and found out that they carry a contagious virus. They enter hotel quarantine, undergo testing, and complete their isolation period. Everything seems under control. 
 
-![](thumbnail.jpg)
+But what happens if an infected person slips through the system?
+
+During the COVID-19 pandemic, countries such as Australia and New Zealand relied on strict border quarantine to prevent imported infections from spreading into communities. Yet even a small number of quarantine breaches could trigger outbreaks.
+
+This raises two important questions:
+
+- Can vaccination reduce the risk of infections escaping quarantine?
+
+- If a breach occurs, how much protection does a vaccinated community really have?
+
+Researchers investigated these questions using computer simulations of quarantine and community transmission (Zachreson et al., 2022). Their findings reveal an important lesson: *vaccinating people inside quarantine is not enough on its own. Protection across the wider community matters more.*
 
 
