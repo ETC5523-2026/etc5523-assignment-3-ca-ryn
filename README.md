@@ -1,6 +1,9 @@
-# GitHub Pages 
+# Links
 
-[https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/](https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/)
+**Github Pages**: [https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/](https://etc5523-2026.github.io/etc5523-assignment-3-ca-ryn/)
+
+**Video Walkthrough of the Website**: [https://drive.google.com/file/d/1Z9Oa5dHk44aDyPvTnuo5KbkjlGB5p8h2/view?usp=sharing](https://drive.google.com/file/d/1Z9Oa5dHk44aDyPvTnuo5KbkjlGB5p8h2/view?usp=sharing)
+
 
 ## Intended Audience
 
